@@ -1,0 +1,16 @@
+#tabs-icons {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    font-size: 30px;
+    margin: 15px 15px;
+    color: gray;
+    
+}
+.cells:hover {
+    color: blue;
+}
+
+.square:hover {
+    color: blue;
+}
