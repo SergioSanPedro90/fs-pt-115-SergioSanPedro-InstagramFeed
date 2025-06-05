@@ -2,15 +2,36 @@
     display: flex;
     justify-content: center;
     gap: 50px;
-    font-size: 30px;
+    font-size: 20px;
     margin: 15px 15px;
     color: gray;
     
 }
-.cells:hover {
-    color: blue;
+
+
+
+
+.photo {
+    object-fit: cover;
 }
 
-.square:hover {
-    color: blue;
+.post-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.photo-title {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px; 
+    margin-left: 5px;
+    
+}
+
+.card-img-top {
+    width: 700px;
+    height: auto;
+    object-fit: fill;
 }
