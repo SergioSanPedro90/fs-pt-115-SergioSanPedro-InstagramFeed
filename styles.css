@@ -8,25 +8,10 @@
     
 }
 
-
-
-
-.photo {
-    object-fit: cover;
-}
-
-
-
 .photo-title {
     display: flex;
     justify-content: space-between;
     padding: 10px; 
     margin-left: 5px;
     
-}
-
-.card-img-top {
-    width: 700px;
-    height: auto;
-    object-fit: fill;
 }
